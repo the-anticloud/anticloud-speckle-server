@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "1690abaaaf3fc3e6a21b70a199e3cfa401997466",
-   "url": "https://github.com/speckleworks/SpeckleServer",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/specklesystems/speckle-server",
+   "head": "51d43b91c4681a75bff8b285da7f443a4599da67",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/speckleworks/SpeckleServer"
   }
  }
 }

@@ -543,7 +543,7 @@
    "url": "https://github.com/specklesystems/speckle-server",
    "head": "51d43b91c4681a75bff8b285da7f443a4599da67",
    "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
-   "previous_substitute": "https://github.com/speckleworks/SpeckleServer"
+   "previous_substitute": "https://github.com/specklesystems/speckle-server"
   }
  }
 }
